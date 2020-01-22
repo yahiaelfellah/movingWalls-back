@@ -3,7 +3,7 @@ module.exports = {
     "appEndpoint": "https://localhost:8443",
     "apiEndpoint": "https://localhost:8443/api",
     "refresh_secret": "Oh!42My@Go6*d9753!",
-    "jwtValidityTimeInSeconds": 1020,
+    "jwtValidityTimeInSeconds": 4080,
     "environment": "dev",
     "permissionLevels": {
         "Surfer": 1,
