@@ -1,9 +1,4 @@
-# Sup'Com - SysTel - T-IoT - Node.js Tutorial
-
-This tutorial is intended for `SysTel`'s & `AIM`'s students at `Sup'Com` Engineering School 
-and `IoT`'s students at National Engineering School of Tunis: `ENIT`.
-
-Visit https://medbecha.kaaniche.xyz/blog to learn more about this tutorial. 
+l. 
 
 ## Usage
 
@@ -18,7 +13,7 @@ Run `npm start`. It will initialize the server at port 8443.
 
 POST https://localhost:8443/users
 
-{"firstName":"Mohamed-Amine","lastName":"Alum","email":"medamine@yahoo.com","password":"Min$09ou2!","permissionLevel":2049}
+{"firstName":"yahiae","lastName":"Alum","email":"yahiafellah@yahoo.fr","password":"Min$09ou2!","permissionLevel":2049}
 
 201 Created
 
@@ -35,7 +30,7 @@ POST https://localhost:8443/auth
 
 201 Created
 
-{"email":"medamine@yahoo.com","password":"Min$09ou2!"}
+{"email":"yahiafellah@yahoo.fr","password":"Min$09ou2!"}
 
 {
     "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1YmNjNzEyYjUwYWNlN2ViZmFhZjgyYWMiLCJlbWFpbCI6Imd0X2FtaW5lQHlhaG9vLmZyIiwicGVybWlzc2lvbkxldmVsIjoxLCJwcm92aWRlciI6ImVtYWlsIiwibmFtZSI6Ik1vaGFtZWQtQW1pbmUgR3VldGFyaSIsInJlZnJlc2hLZXkiOiI2L1gyendwckRJMWF2VTNYSVMwcWVBPT0iLCJpYXQiOjE1NDAxMjU1NDJ9.oHf4kSVmziEy6pbpmpgYzmUc_WpZa0kuyWbXfTH6b1o",
@@ -49,9 +44,9 @@ authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1YmNjNzEyYjUw
 200 OK
 
 {
-    "firstName": "Mohamed-Amine",
-    "lastName": "Alum",
-    "email": "medamine@yahoo.com",
+    "firstName": "Yahia",
+    "lastName": "FeL",
+    "email": "Yyahiafellah@yahoo.fr",
     "password": "aSptMBJUtcjA81T8gsn8Lg==$klzw7dDgRkSp9xlPEGe1RpVZCrdCFjDikAQqWTMvcYPXVywR9HdBzXmsRA8pFQnEatokusQ8pA5/QbCaT3mdrw==",
     "permissionLevel": 1,
     "id": "5bcc712b50ace7ebfaaf82ac"
