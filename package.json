@@ -19,7 +19,7 @@
   "homepage": "https://medbecha.kaaniche.xyz/t-iot-tutorial/nodejs",
   "dependencies": {
     "body-parser": "1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.21.2",
     "jsonwebtoken": "^8.3.0",
     "moment": "^2.22.2",
